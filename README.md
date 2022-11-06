@@ -1,6 +1,6 @@
 # lab6wab
 
-# Ini tampilan gambar nya
+## Ini tampilan gambar nya
 
 Nama    : Wayan Indra
 Nim     : 312110321
